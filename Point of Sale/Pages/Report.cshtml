@@ -1,0 +1,103 @@
+﻿@page
+@model ReportModel
+@{
+    ViewData["PageTitle"] = "Report";
+}
+
+<!--begin::Filter-->
+<div class="row">
+    <!--begin::Filter Card-->
+    <div class="card card-danger card-outline mb-4">
+        <div class="card-header">
+            <div class="card-title">Filters</div>
+        </div>
+
+        <div class="card-body">
+            <form id="filterForm">
+                <div class="row align-items-end g-3">
+
+                    <div class="col-md-2">
+                        <label class="form-label">Frequency</label>
+                        <select class="form-select" id="frequencies" required>
+                            <option selected disabled value="All">Choose...</option>
+                            <option value="Daily">Daily</option>
+                            <option value="Weekly">Weekly</option>
+                            <option value="Monthly">Monthly</option>
+                            <option value="Annually">Annually</option>
+                        </select>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label for="dateFrom" class="form-label">Date From</label>
+                        <input id="dateFrom" class="form-control" type="date">
+                    </div>
+
+                    <div class="col-md-4">
+                        <label for="dateTo" class="form-label">Date To</label>
+                        <input id="dateTo" class="form-control" type="date">
+                    </div>
+
+                    <div class="col-md-2 d-grid">
+                        <button type="submit" class="btn btn-primary">
+                            Filter
+                        </button>
+                    </div>
+
+                </div>
+            </form>
+        </div>
+    </div>
+    <!--end::Filter Card-->
+</div>
+<!--end::End Filter-->
+
+<!--begin::Table Inventory-->
+<div class="row">
+    <!--begin::Quick Example-->
+    <div class="card card-primary card-outline mb-4">
+        <!--begin::Header-->
+        <div class="card-header">
+            <div class="card-title">Report</div>
+
+            <div class="d-flex">
+                    <button id="exportExcel" class="btn btn-success ms-auto">
+                    <i class="fa-solid fa-file-csv"></i> Export Excel
+                </button>
+            </div>
+        </div>
+        <!--end::Header-->
+        <!--begin::Table-->
+        <!--begin::Body-->
+        <div class="card-body">
+            <!--begin::Body-->
+            <div class="card-body">
+                <table id="example" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Order No</th>
+                            <th>Product</th>
+                            <th>Price</th>
+                            <th>Amount</th>
+                            <th>Total Sales</th>
+                        </tr>
+                    </thead>
+                    <tbody id="reportTable"></tbody>
+
+                    <tfoot>
+                        <tr>
+                            <th colspan="5" style="text-align:right">TOTAL REVENUE:</th>
+                            <th id="totalRevenue">0</th>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+            <!--end::Body-->
+        </div>
+        <!--end::Body-->
+        <!--end::Table-->
+    </div>
+    <!--end::Quick Example-->
+</div>
+<!--end::Table Inventory-->
+<script src="~/scripts/report.js"></script>

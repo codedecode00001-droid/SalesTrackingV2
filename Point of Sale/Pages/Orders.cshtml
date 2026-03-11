@@ -1,0 +1,250 @@
+﻿@page
+@model OrdersModel
+@{
+    ViewData["PageTitle"] = "Order";
+}
+
+<style>
+    #qr-reader video {
+        width: 100% !important;
+        border-radius: 10px;
+    }
+</style>
+
+<div class="row">
+    <div class="col-lg-5">
+        <!--begin::Form Validation-->
+        <div class="card card-primary card-outline mb-4">
+            <!--begin::Header-->
+            <div class="card-header">
+                <div class="card-title">Orders Forms</div>
+
+               <!--begin::Button for Scan QR Code-->
+                <div class="d-flex">
+                    <button class="btn btn-primary ms-auto" onclick="openScanner()">
+                        <i class="fa-solid fa-qrcode"></i> Scan QR
+                    </button>
+                </div>
+                <!--end::End Scan QR Code-->
+
+            </div>
+            <!--end::Header-->
+            <!--begin::Modal for open Scan QR Code-->
+            <div class="modal fade" id="qrModal" tabindex="-1">
+                <div class="modal-dialog modal-dialog-centered modal-lg modal-fullscreen-sm-down">
+                    <div class="modal-content">
+
+                        <div class="modal-header">
+                            <h5 class="modal-title flex-grow-1">Scan QR Code</h5>
+
+                            <button type="button"
+                                    class="btn btn-sm btn-primary me-2"
+                                    onclick="switchCamera()"
+                                    data-bs-toggle="tooltip"
+                                    title="Switch Camera">
+                                <i class="fa-solid fa-rotate"></i>
+                            </button>
+
+                            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                        </div>
+
+                        <div class="modal-body text-center">
+                            <div id="qr-reader" style="width:100%;"></div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!--End::Modal for open Scan QR Code-->
+
+            <form id="orderForm" class="needs-validation" novalidate>  
+            <div class="card-body">
+                <!--begin::Row-->
+                <div class="row g-3">
+
+                    <!--begin::Col-->
+                    <div class="col-md-6">
+                        <input type="hidden" id="oid" value="0">
+                        <label for="validationCustom04" class="form-label">Category</label>
+                        <select class="col-sm-11 form-select" id="categoryDropdownOrder" required></select>
+                            <div class="invalid-feedback">
+                                Category is required.
+                            </div>
+                    </div>
+                    <!--end::Col-->
+                    <!--begin::Col-->
+                    <div class="col-md-6">
+                        <label for="validationCustom04" class="form-label">Product</label>
+                        <select class="col-sm-11 form-select" id="productDropdownOrder" required></select>
+                            <div class="invalid-feedback">
+                                Product is required.
+                            </div>
+                    </div>
+                    <!--end::Col-->
+                    <!--begin::Col-->
+                    <div class="col-md-6">
+                        <label for="validationCustom03" class="form-label">Quantity</label>
+                            <input type="number"
+                                   class="form-control text-end"
+                                   id="qty"
+                                   min="1"
+                                   required />
+                            <div class="invalid-feedback">
+                                Please enter a valid quantity.
+                            </div>
+                    </div>
+                    <!--end::Col-->
+                    <!--begin::Col-->
+                    <div class="col-md-6">
+                        <label for="validationCustom03" class="form-label">Stock</label>
+                        <input type="text"
+                               class="form-control"
+                               style="text-align:right;"
+                               id="stock"
+                               readonly
+                               required />
+                    </div>
+                    <!--end::Col-->
+                    <!--begin::Col-->
+                    <div class="col-md-6">
+                        <label for="validationCustom03" class="form-label">Price</label>
+                        <input type="text"
+                               class="form-control"
+                               style="text-align:right;"
+                               id="price"
+                               readonly
+                               required />
+                    </div>
+                    <!--end::Col-->
+                    <!--begin::Col-->
+                    <div class="col-md-6">
+                        <label for="validationCustom04" class="form-label">Units</label>
+                        <select class="col-sm-11 form-select" id="unitsDropdown" required></select>
+                            <div class="invalid-feedback">
+                                Units is required.
+                            </div>
+                    </div>
+                    <!--end::Col-->
+
+                    <!--begin::Col-->
+                    <div class="col-md-6">
+                        <label for="validationCustom03" class="form-label">Description</label>
+                            <input type="text"
+                                   class="form-control"
+                                   id="description"
+                                   required />
+                            <div class="invalid-feedback">
+                                Description is required.
+                            </div>
+                    </div>
+                    <!--end::Col-->
+
+
+                    <!--begin::Col-->
+                    <div class="col-md-6">
+                        <label for="validationCustom03" class="form-label">Total Price</label>
+                        <input type="text"
+                               class="form-control"
+                               style="text-align:right;"
+                               id="totalPrice"
+                               readonly
+                               required />
+                    </div>
+                    <!--end::Col-->
+                </div>
+                <!--end::Row-->
+
+                    <!--begin::Alert Message-->
+                    <div id="msg"
+                         class="alert alert-dismissible fade show d-none mt-3"
+                         role="alert">
+                        <button type="button"
+                                class="btn-close"
+                                aria-label="Close"
+                                onclick="hideMessage()"></button>
+                    </div>
+                    <!--end::Message-->
+            </div>
+            <!--end::Body for Beverage/Inumin-->
+
+
+                <!--begin::Footer-->
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-primary float-end" id="btnAddCart">Add Order</button>
+                </div>
+                <!--end::Footer-->
+            </form>
+
+         
+
+            <!--begin::JavaScript-->
+            <script>
+                // Example starter JavaScript for disabling form submissions if there are invalid fields
+                (() => {
+                  'use strict';
+
+                  // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                  const forms = document.querySelectorAll('.needs-validation');
+
+                  // Loop over them and prevent submission
+                  Array.from(forms).forEach((form) => {
+                    form.addEventListener(
+                      'submit',
+                      (event) => {
+                        if (!form.checkValidity()) {
+                          event.preventDefault();
+                          event.stopPropagation();
+                        }
+
+                        form.classList.add('was-validated');
+                      },
+                      false,
+                    );
+                  });
+                })();
+            </script>
+            <!--end::JavaScript-->
+        </div>
+        <!--end::Form Validation-->
+    </div>
+
+
+    <div class="col-lg-7">
+        <div class="card card-primary card-outline mb-4">
+            <!--begin::Header-->
+            <div class="card-header">
+                <div class="card-title">Order List and Total Cost</div>
+            </div>
+            <!--end::Header-->
+            <!--begin::Body-->
+            <div class="card-body">
+                <!--begin::Body-->
+                <div class="card-body">
+                    <table id="example" class="table table-striped" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Product Name</th>
+                                <th>Price</th>
+                                <th>Qty</th>
+                                <th>Description</th>
+                                <th>Units</th>
+                                <th>Total Price</th>
+                                <th style="text-align:center">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="cartTable"></tbody>
+                    </table>
+                </div>
+                <!--end::Body-->
+            </div>
+            <!--end::Body-->
+            <!--begin::Footer-->
+            <div class="card-footer">
+                <button type="submit" class="btn btn-primary float-end" id="btnProceed" onclick="saveOrder() ">Proceed Checkout</button>
+            </div>
+            <!--end::Footer-->
+        </div>     
+    </div>
+</div>
+ 
+<script src="~/scripts/order.js"></script>

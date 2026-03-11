@@ -1,0 +1,177 @@
+﻿@page
+@model ProductModel
+@{
+    ViewData["PageTitle"] = "Product";
+}
+
+<style>
+    .text-right {
+        text-align: right;
+    }
+</style>
+
+<!--begin::This is for the Details-->
+<div class="row">
+    <!--begin::Different Width-->
+    <div class="card card-danger card-outline mb-4">
+        <!--begin::Header-->
+        <div class="card-header"><div class="card-title">Product Details</div></div>
+        <!--end::Header-->
+
+        <form id="productForm" class="needs-validation" novalidate>
+            <!-- Hidden product ID -->
+            <input type="hidden" id="prodId" value="0">
+
+            <!-- Card body -->
+            <div class="card-body">
+
+                <!-- Category -->
+                <div class="row mb-3">
+                    <label for="categoryDropdown" class="col-sm-3 col-form-label">Category</label>
+                    <div class="col-sm-9">
+                        <select class="form-select" id="categoryDropdown" required>
+                            <option value="">-- Select Category --</option>
+                        </select>
+                        <div class="invalid-feedback">Please select a category.</div>
+                    </div>
+                </div>
+
+                <!-- Product Name -->
+                <div class="row mb-3">
+                    <label for="product" class="col-sm-3 col-form-label">Product</label>
+                    <div class="col-sm-9">
+                        <input type="text" class="form-control" id="product" required>
+                        <div class="invalid-feedback">Product name is required.</div>
+                    </div>
+                </div>
+
+                <!-- Price -->
+                <div class="row mb-3">
+                    <label for="price" class="col-sm-3 col-form-label">Price</label>
+                    <div class="col-sm-9">
+                        <input type="number" class="form-control text-end" id="price" min="0" step="0.01" required>
+                        <div class="invalid-feedback">Please enter a valid price.</div>
+                    </div>
+                </div>
+
+                <!-- Stock -->
+                <div class="row mb-3">
+                    <label for="stock" class="col-sm-3 col-form-label">Stock</label>
+                    <div class="col-sm-9">
+                        <input type="number" class="form-control text-end" id="stock" min="0" step="1" required>
+                        <div class="invalid-feedback">Please enter stock quantity.</div>
+                    </div>
+                </div>
+
+                <!-- Expiration Date -->
+                <div class="row mb-3">
+                    <label for="expiredDate" class="col-sm-3 col-form-label">Date</label>
+                    <div class="col-sm-9">
+                        <input type="date" class="form-control" id="expiredDate" required>
+                        <div class="invalid-feedback">Expiration date is required.</div>
+                    </div>
+                </div>
+
+                <!-- Status (Radio buttons) -->
+                <div class="row mb-3">
+                    <label class="col-sm-3 col-form-label">Status</label>
+                    <div class="col-sm-9 d-flex align-items-center gap-3">
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="choice" id="option1" value="Available" checked required>
+                            <label class="form-check-label" for="option1">Available</label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="choice" id="option2" value="Unavailable">
+                            <label class="form-check-label" for="option2">Unavailable</label>
+                        </div>
+                        <div class="invalid-feedback d-block">Please select a status.</div>
+                    </div>
+                </div>
+
+                <!-- Description -->
+                <div class="row mb-3">
+                    <label for="description" class="col-sm-3 col-form-label">Description</label>
+                    <div class="col-sm-9">
+                        <textarea class="form-control" id="description" rows="3" required></textarea>
+                        <div class="invalid-feedback">Description is required.</div>
+                    </div>
+                </div>
+
+                <!-- QR Code container -->
+                <div id="qrContainer" class="text-center mb-3" style="display:none;">
+                    <div id="qrcode"></div>
+                </div>
+
+                <!-- QR Confirmation Modal -->
+                <div class="modal fade" id="qrConfirmModal" tabindex="-1" aria-labelledby="qrConfirmModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="qrConfirmModalLabel">Generate QR Code</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                Do you want to generate a new QR code for <strong id="qrProductName"></strong>?
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                <button type="button" class="btn btn-primary" id="confirmQRBtn">Generate QR</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Alert Message -->
+                <div id="msg" class="alert alert-dismissible fade show d-none mt-3" role="alert">
+                    <button type="button" class="btn-close" aria-label="Close" onclick="hideMessage()"></button>
+                    <span id="msgContent"></span>
+                </div>
+
+            </div> <!-- end card-body -->
+            <!-- Footer -->
+            <div class="card-footer d-flex">
+                <button type="submit" class="btn btn-primary ms-auto" id="btnSaveProduct">Save</button>
+            </div>
+        </form>
+  </div>
+</div>
+<!--end::This is for the Details-->
+
+<!--begin::For the List-->
+<div class="row">
+    <!--begin::Different Width-->
+    <div class="card card-danger card-outline mb-4">
+        <!--begin::Header-->
+        <div class="card-header"><div class="card-title">Product List</div></div>
+        <!--end::Header-->
+        <!--begin::Body-->
+        <div class="card-body">
+            <!--begin::Body-->
+            <div class="card-body">
+                <table id="example" class="table table-striped" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>Category Name</th>
+                            <th>Product Name</th>
+                            <th>Price</th>
+                            <th>Stock</th>
+                            <th>Date Expired</th>
+                            <th>Status</th>
+                            <th>Description</th>
+                            <th>Date Created</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="productTable"></tbody>
+                </table>
+            </div>
+            <!--end::Body-->
+        </div>
+        <!--end::Body-->
+    </div>
+    <!--end::Different Width-->
+</div>
+<!--end::End of the List-->
+
+
+<script src="~/scripts/product.js"></script>

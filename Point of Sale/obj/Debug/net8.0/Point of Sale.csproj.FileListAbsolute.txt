@@ -1,0 +1,215 @@
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\appsettings.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\libman.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.staticwebassets.runtime.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.staticwebassets.endpoints.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.exe
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.deps.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.runtimeconfig.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.pdb
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Raven.Abstractions.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Raven.Client.Lightweight.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Sparrow.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Raven.Database.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Rachis.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\Raven.Tests.Helpers.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Private.ServiceModel.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win7\lib\netstandard1.3\System.Private.ServiceModel.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\pos.Core.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\pos.Infrastructure.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\pos.Core.pdb
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\bin\Debug\net8.0\pos.Infrastructure.pdb
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.AssemblyInfoInputs.cache
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.AssemblyInfo.cs
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.RazorAssemblyInfo.cache
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.RazorAssemblyInfo.cs
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\scopedcss\bundle\Point of Sale.styles.css
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\scopedcss\projectbundle\Point of Sale.bundle.scp.css
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of.D526C19A.Up2Date
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\refint\Point of Sale.dll
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.pdb
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.genruntimeconfig.cache
+C:\Users\WANG\Desktop\Web POS\Point of Sale\Point of Sale\obj\Debug\net8.0\ref\Point of Sale.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\appsettings.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\libman.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.staticwebassets.runtime.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.staticwebassets.endpoints.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.exe
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.deps.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.runtimeconfig.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Point of Sale.pdb
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Raven.Abstractions.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Raven.Client.Lightweight.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Sparrow.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Raven.Database.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Rachis.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\Raven.Tests.Helpers.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\unix\lib\netstandard1.3\System.Private.ServiceModel.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win7\lib\netstandard1.3\System.Private.ServiceModel.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\pos.Core.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\pos.Infrastructure.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\pos.Core.pdb
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\bin\Debug\net8.0\pos.Infrastructure.pdb
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.AssemblyInfoInputs.cache
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.AssemblyInfo.cs
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.RazorAssemblyInfo.cache
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.RazorAssemblyInfo.cs
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\scopedcss\bundle\Point of Sale.styles.css
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\scopedcss\projectbundle\Point of Sale.bundle.scp.css
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of.D526C19A.Up2Date
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\refint\Point of Sale.dll
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.pdb
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\Point of Sale.genruntimeconfig.cache
+C:\Users\WANG\Desktop\Inventory Web\Point of Sale\Point of Sale\obj\Debug\net8.0\ref\Point of Sale.dll

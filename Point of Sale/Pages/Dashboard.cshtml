@@ -1,0 +1,149 @@
+﻿@page
+@model Point_of_Sale.Pages.DashboardModel
+@{
+    ViewData["PageTitle"] = "Dashboard";
+}
+
+<!--begin::Row-->
+<div class="row">
+    <!--begin::Col-->
+    <div class="col-lg-3 col-6">
+        <!--begin::Small Box Widget 1-->
+        <div class="small-box text-bg-primary">
+            <div class="inner">
+                <h3 id="totalproducts"></h3>
+                <p>TOTAL PRODUCTS</p>
+            </div>
+            <i class="fa-solid fa-diagram-project small-box-icon" fill="currentColor"
+               viewBox="0 0 24 24"
+               aria-hidden="true">
+           </i>      
+        </div>
+        <!--end::Small Box Widget 1-->
+    </div>
+    <!--end::Col-->
+    <div class="col-lg-3 col-6">
+        <!--begin::Small Box Widget 2-->
+        <div class="small-box text-bg-success">
+            <div class="inner">
+                <h3 id="totalcategory"></h3>
+                <p>TOTAL CATEGORIES</p>
+            </div>
+            <i class="fa-solid fa-tag small-box-icon" fill="currentColor"
+               viewBox="0 0 24 24"
+               aria-hidden="true">
+            </i>
+        </div>
+        <!--end::Small Box Widget 2-->
+    </div>
+    <!--end::Col-->
+    <div class="col-lg-3 col-6">
+        <!--begin::Small Box Widget 3-->
+        <div class="small-box text-bg-warning">
+            <div class="inner">
+                <h3 id="no_sales"></h3>
+                <p>TODAY'S SALES</p>
+            </div>
+            <i class="fa-solid fa-receipt small-box-icon" fill="currentColor"
+               viewBox="0 0 24 24"
+               aria-hidden="true"></i>
+        </div>
+        <!--end::Small Box Widget 3-->
+    </div>
+    <!--end::Col-->
+    <div class="col-lg-3 col-6">
+        <!--begin::Small Box Widget 4-->
+        <div class="small-box text-bg-danger">
+            <div class="inner">
+                <h3 id="totalrevenue"></h3>
+                <p>NET REVENUE TODAY</p>
+            </div>
+            <i class="fa-regular fa-money-bill-1 small-box-icon" fill="currentColor"
+               viewBox="0 0 24 24"
+               aria-hidden="true"></i>
+        </div>
+        <!--end::Small Box Widget 4-->
+    </div>
+    <!--end::Col-->
+</div>
+<!--end::Row-->
+
+<!--begin::Row-->
+<div class="row">
+    <!-- Start col -->
+    <div class="col-lg-7">
+        <div class="card mb-4">
+            <div class="card-header"><h3 class="card-title">Recent Sales</h3></div>
+            <div class="card-body">
+                <div>
+                    <table id="example" class="table table-striped nowrap">
+                        <thead>
+                            <tr>
+                                <th>Transaction/Order No.</th>
+                                <th>Date & Time</th>
+                                <th>Users</th>
+                                <th>Total Amount</th>
+                            </tr>
+                        </thead>
+                        <tbody id="listofSalesTable"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!-- /.card -->   
+    </div>
+    <!-- /.Start col -->
+
+    <!-- Start col -->
+    <div class="col-lg-5">
+        <div class="card mb-4">
+            <div class="card-header"><h3 class="card-title">List/Low Stocks</h3></div>
+            <div class="card-body">
+                <div>
+                    @* <table id="example1" class="table table-striped nowrap">
+                        <thead>
+                            <tr>
+                                <th>Category Name</th>
+                                <th>Product Name</th>
+                                <th>No. Stocks</th>                       
+                            </tr>
+                        </thead>
+                        <tbody id="listofStocksTable"></tbody>
+                    </table> *@
+                    <table id="example1" class="table table-striped nowrap">
+                        <thead>
+                            <tr>
+                                <th>Category Name</th>
+                                <th>Product Name</th>
+                                <th>No. Stocks</th>
+                            </tr>
+                        </thead>
+                        <tbody id="listofStocksTable">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="card mb-4">
+            <div class="card-header"><h3 class="card-title">Expiring Soons</h3></div>
+            <div class="card-body">
+                <div >
+                    <table id="example2" class="table table-striped nowrap">
+                        <thead>
+                            <tr>
+                                <th>Category Name</th>
+                                <th>Product Name</th>
+                                <th>Date Expired</th>
+                            </tr>
+                        </thead>
+                        <tbody id="listofExpiredTable"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.Start col -->
+</div>
+<!-- /.row (main row) -->
+<script src="~/scripts/dashboard.js"></script>

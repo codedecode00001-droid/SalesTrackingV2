@@ -1,0 +1,107 @@
+﻿@page
+@model CategoryModel
+@{
+    ViewData["PageTitle"] = "Category";
+}
+
+<div class="row">
+    <!--begin::Different Width-->
+    <div class="card card-danger card-outline mb-4">
+        <!--begin::Header-->
+        <div class="card-header"><div class="card-title">Category Details</div></div>
+        <!--end::Header-->
+
+        <form id="categoryForm" class="needs-validation" novalidate>
+            <!-- Hidden category ID -->
+            <input type="hidden" id="catId" value="0">
+
+            <!-- Card body -->
+            <div class="card-body">
+
+                <!-- Category Name -->
+                <div class="row mb-3 align-items-center">
+                    <label for="categoryName" class="col-sm-2 col-form-label">Category</label>
+                    <div class="col-sm-10 col-md-4">
+                        <input type="text" class="form-control" id="categoryName" required>
+                        <div class="invalid-feedback">Category name is required.</div>
+                    </div>
+                </div>
+
+                <!-- Status (Radio buttons) -->
+                <div class="row mb-3 align-items-center">
+                    <label class="col-sm-2 col-form-label">Status</label>
+                    <div class="col-sm-10 col-md-4 d-flex align-items-center gap-3">
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="choice" id="option1" value="Available" required checked>
+                            <label class="form-check-label" for="option1">Available</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="choice" id="option2" value="Unavailable">
+                            <label class="form-check-label" for="option2">Unavailable</label>
+                        </div>
+                        <div class="invalid-feedback d-block">Please select a status.</div>
+                    </div>
+                </div>
+
+                <!-- Description -->
+                <div class="row mb-3 align-items-start">
+                    <label for="description" class="col-sm-2 col-form-label">Description</label>
+                    <div class="col-sm-10 col-md-6">
+                        <textarea class="form-control" id="description" rows="3" required></textarea>
+                        <div class="invalid-feedback">Description is required.</div>
+                    </div>
+                </div>
+
+                <!-- Alert Message -->
+                <div id="msg" class="alert alert-dismissible fade show d-none mt-3" role="alert">
+                    <button type="button" class="btn-close" aria-label="Close" onclick="hideMessage()"></button>
+                    <span id="msgContent"></span>
+                </div>
+
+            </div> <!-- end card-body -->
+            <!-- Card footer -->
+            <div class="card-footer d-flex">
+                <button type="submit" class="btn btn-primary ms-auto" id="auCategory">Save</button>
+            </div>
+        </form>
+
+      
+    </div>
+    <!--end::Different Width-->
+</div>
+
+<!--begin::For the List-->
+<div class="row">
+    <!--begin::Different Width-->
+    <div class="card card-danger card-outline mb-4">
+        <!--begin::Header-->
+        <div class="card-header"><div class="card-title">Category List</div></div>
+        <!--end::Header-->
+
+        <!--begin::Body-->
+        <div class="card-body">
+            <!--begin::Body-->
+            <div class="card-body">
+                <table id="example" class="table table-striped" style="width:100%">
+                    <thead>
+                        <tr>
+                            <th>Category Name</th>
+                            <th>Description</th>
+                            <th>Status</th>
+                            <th>Date Created</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="categoryTable"></tbody>
+                </table>
+            </div>
+            <!--end::Body-->       
+        </div>
+        <!--end::Body-->
+    </div>
+    <!--end::Different Width-->
+</div>
+<!--end::End of the List-->
+
+
+<script src="~/scripts/category.js"></script>

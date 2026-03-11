@@ -1,0 +1,235 @@
+﻿@page
+@model Point_of_Sale.Pages.EnterPinModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PIN Login</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+
+        body {
+            background: #f4f6f9;
+        }
+
+        .card {
+            border-radius: 20px;
+        }
+
+        .pin-box {
+            width: 60px;
+            height: 70px;
+            font-size: 28px;
+            text-align: center;
+            border-radius: 12px;
+        }
+
+        .keypad button {
+            height: 65px;
+            font-size: 22px;
+            border-radius: 12px;
+        }
+
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255,255,255,0.7);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container vh-100 d-flex justify-content-center align-items-center">
+
+        <div class="card shadow p-4 text-center" style="width:340px">
+
+            <h4 class="mb-3">Enter PIN</h4>
+
+            <div id="msg" class="alert d-none"></div>
+
+            <div class="d-flex justify-content-between mb-3">
+
+                <input type="password" class="form-control pin-box" readonly id="p1">
+                <input type="password" class="form-control pin-box" readonly id="p2">
+                <input type="password" class="form-control pin-box" readonly id="p3">
+                <input type="password" class="form-control pin-box" readonly id="p4">
+
+            </div>
+
+            <div id="employeePreview" class="mb-3 text-muted fw-semibold"></div>
+
+            <div class="keypad row g-2">
+
+                <div class="col-4"><button class="btn btn-light w-100" onclick="press(1)">1</button></div>
+                <div class="col-4"><button class="btn btn-light w-100" onclick="press(2)">2</button></div>
+                <div class="col-4"><button class="btn btn-light w-100" onclick="press(3)">3</button></div>
+
+                <div class="col-4"><button class="btn btn-light w-100" onclick="press(4)">4</button></div>
+                <div class="col-4"><button class="btn btn-light w-100" onclick="press(5)">5</button></div>
+                <div class="col-4"><button class="btn btn-light w-100" onclick="press(6)">6</button></div>
+
+                <div class="col-4"><button class="btn btn-light w-100" onclick="press(7)">7</button></div>
+                <div class="col-4"><button class="btn btn-light w-100" onclick="press(8)">8</button></div>
+                <div class="col-4"><button class="btn btn-light w-100" onclick="press(9)">9</button></div>
+
+                <div class="col-4">
+                    <button class="btn btn-danger w-100" onclick="clearPin()">C</button>
+                </div>
+
+                <div class="col-4">
+                    <button class="btn btn-light w-100" onclick="press(0)">0</button>
+                </div>
+
+                <div class="col-4">
+                    <button class="btn btn-success w-100" onclick="checkPin()">OK</button>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+
+    <div id="loadingOverlay" class="loading-overlay d-none">
+        <div class="spinner-border text-primary"></div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+
+        let pin = "";
+
+        function press(num){
+            if(pin.length >= 4) return;
+
+            pin += num;
+
+            updateUI();
+
+            previewEmployee();
+
+            if(pin.length === 4){
+              checkPin();
+            }
+        }
+
+        function updateUI(){
+            document.getElementById("p1").value = pin[0] ?? "";
+            document.getElementById("p2").value = pin[1] ?? "";
+            document.getElementById("p3").value = pin[2] ?? "";
+            document.getElementById("p4").value = pin[3] ?? "";
+        }
+
+        function clearPin(){
+            pin="";
+            updateUI();
+            document.getElementById("employeePreview").innerText="";
+        }
+
+        function showMessage(message,type="danger"){
+            const msg=document.getElementById("msg");
+
+            msg.className=`alert alert-${type}`;
+            msg.innerText=message;
+
+            setTimeout(()=>{
+            msg.className="alert d-none";
+            },3000);
+        }
+
+        function showLoading(){
+            document.getElementById("loadingOverlay").classList.remove("d-none");
+
+            document.querySelectorAll(".keypad button").forEach(b=>b.disabled=true);
+        }
+
+        function hideLoading(){
+            document.getElementById("loadingOverlay").classList.add("d-none");
+
+            document.querySelectorAll(".keypad button").forEach(b=>b.disabled=false);
+        }
+
+        function shakeCard(){
+            const card = document.querySelector(".card");
+
+            card.style.transition = "transform 0.05s";
+
+            let shakes = 0;
+
+            let interval = setInterval(()=>{
+                card.style.transform = (shakes % 2 === 0)
+                ? "translateX(-6px)"
+                : "translateX(6px)";
+
+                shakes++;
+
+                if(shakes > 6){
+                    clearInterval(interval);
+                    card.style.transform = "translateX(0)";
+                }
+            },50);
+        }
+
+        function previewEmployee(){
+            const preview=document.getElementById("employeePreview");
+
+            if(pin.length<4){
+                preview.innerText="";
+                return;
+            }
+
+            preview.innerText="Checking employee...";
+
+        }
+
+        async function checkPin(){
+            if(pin.length!==4) return;
+
+            showLoading();
+
+            try{
+                const res=await fetch(`/EnterPin?handler=Validate&Pin=${pin}`);
+                const result=await res.json();
+
+                hideLoading();
+
+                if(result.success){
+                    window.location.href="/Dashboard";
+                }else{
+                    shakeCard();
+                    showMessage("Invalid PIN/ Already Login.");
+                    clearPin();
+                }
+
+            }catch(e){
+                hideLoading();
+                shakeCard();
+                showMessage("Server error");
+                clearPin();
+            }
+
+        }
+
+    </script>
+
+</body>
+</html>
