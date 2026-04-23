@@ -1,0 +1,16 @@
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\bin\Release\net8.0\pos.Infrastructure.deps.json
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\bin\Release\net8.0\pos.Infrastructure.dll
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\bin\Release\net8.0\pos.Infrastructure.pdb
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\bin\Release\net8.0\pos.Core.dll
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\bin\Release\net8.0\pos.Core.pdb
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\obj\Release\net8.0\pos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\obj\Release\net8.0\pos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\obj\Release\net8.0\pos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\obj\Release\net8.0\pos.Infrastructure.AssemblyInfo.cs
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\obj\Release\net8.0\pos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\obj\Release\net8.0\pos.Infrastructure.sourcelink.json
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\obj\Release\net8.0\pos.Infr.E428F095.Up2Date
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\obj\Release\net8.0\pos.Infrastructure.dll
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\obj\Release\net8.0\refint\pos.Infrastructure.dll
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\obj\Release\net8.0\pos.Infrastructure.pdb
+C:\Users\WANG\Desktop\Sales Track V2\pos.Infrastructure\obj\Release\net8.0\ref\pos.Infrastructure.dll

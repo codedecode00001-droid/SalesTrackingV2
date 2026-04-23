@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VGzWT6TUud8=",
+  "dgSpecHash": "AxX8V0+eCTs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\pos.Core.csproj",
+  "projectFilePath": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\pos.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WANG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
     "C:\\Users\\WANG\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",

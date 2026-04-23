@@ -38,7 +38,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Inventory Tracking</title>
+    <title>@ViewData["PageTitle"] Sales </title>
 
     <!-- #region Third Party Plugin DataTable CSS -->
     <link href="~/css/bootstrap.min.css" rel="stylesheet" />
@@ -160,7 +160,7 @@
                          class="brand-image opacity-75 shadow" />
                     <!--end::Brand Image-->
                     <!--begin::Brand Text-->
-                    <span class="brand-text fw-light">Sales Tracking</span>
+                    <span class="brand-text fw-light">Sales</span>
                     <!--end::Brand Text-->
                 </a>
                 <!--end::Brand Link-->
@@ -169,89 +169,134 @@
             <!--begin::Sidebar Wrapper-->
             <div class="sidebar-wrapper">
                 <nav class="mt-2">
-                    <!--begin::Sidebar Menu-->
                     <ul class="nav sidebar-menu flex-column"
                         data-lte-toggle="treeview"
                         role="navigation"
                         aria-label="Main navigation"
                         data-accordion="false"
                         id="navigation">
+
+                        <!-- Dashboard -->
                         <li class="nav-item">
-                            <a class="nav-link @IsActive("/Dashboard")" asp-area="" asp-page="/Dashboard">
+                            <a class="nav-link @IsActive("/Dashboard")" asp-page="/Dashboard">
                                 <i class="nav-icon fa-solid fa-gauge"></i>
-                                <p>
-                                    Dashboard                              
-                                </p>
+                                <p>Dashboard</p>
                             </a>
                         </li>
 
+                        <!-- Transaction -->
                         @if (HasRole("Admin", "Sales Purchasing", "Staff"))
                         {
                             <li class="nav-item">
-                                <a class="nav-link @IsActive("/Orders")" asp-area="" asp-page="/Orders">
+                                <a href="#" class="nav-link">
                                     <i class="nav-icon fa-solid fa-basket-shopping"></i>
                                     <p>
-                                        Orders
+                                        Transaction
+                                        <i class="nav-arrow fa-solid fa-angle-right"></i>
                                     </p>
                                 </a>
-                            </li>    
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a class="nav-link @IsActive("/Orders")" asp-page="/Orders">
+                                            <i class="nav-icon fa-solid fa-circle"></i>
+                                            <p>Orders</p>
+                                        </a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link @IsActive("/Return")" asp-page="/Return">
+                                            <i class="nav-icon fa-solid fa-circle"></i>
+                                            <p>Return Item</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
                         }
 
+                        <!-- Inventory -->
                         @if (HasRole("Admin"))
                         {
                             <li class="nav-item">
-                                <a class="nav-link @IsActive("/Category")" asp-area="" asp-page="/Category">
-                                    <i class="nav-icon fa-solid fa-layer-group"></i>
-                                    <p>
-                                        Category
-                                    </p>
-                                </a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a class="nav-link @IsActive("/Product")" asp-area="" asp-page="/Product">
-                                    <i class="nav-icon fa-brands fa-product-hunt"></i>
-                                    <p>
-                                        Product
-                                    </p>
-                                </a>
-                            </li>
-                        }
-
-                        @if (HasRole("Admin", "Sales Purchasing", "Staff"))
-                        {
-                            <li class="nav-item">
-                                <a class="nav-link @IsActive("/Inventory")" asp-area="" asp-page="/Inventory">
+                                <a href="#" class="nav-link">
                                     <i class="nav-icon fa-solid fa-table-list"></i>
                                     <p>
                                         Inventory
+                                        <i class="nav-arrow fa-solid fa-angle-right"></i>
                                     </p>
                                 </a>
+
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a class="nav-link @IsActive("/Category")" asp-page="/Category">
+                                            <i class="nav-icon fa-solid fa-circle"></i>
+                                            <p>Manage Category</p>
+                                        </a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link @IsActive("/Product")" asp-page="/Product">
+                                            <i class="nav-icon fa-solid fa-circle"></i>
+                                            <p>Manage Product</p>
+                                        </a>
+                                    </li>
+                                </ul>
                             </li>
                         }
 
+                        <!-- Report -->
                         @if (HasRole("Admin"))
                         {
                             <li class="nav-item">
-                                <a class="nav-link @IsActive("/Report")" asp-area="" asp-page="/Report">
+                                <a href="#" class="nav-link">
                                     <i class="nav-icon fa-solid fa-clipboard-list"></i>
                                     <p>
                                         Report
+                                        <i class="nav-arrow fa-solid fa-angle-right"></i>
                                     </p>
                                 </a>
-                            </li>
 
-                            <li class="nav-item">
-                                <a class="nav-link @IsActive("/Pin")" asp-area="" asp-page="/Pin">
-                                    <i class="nav-icon fa-solid fa-user"></i>
-                                    <p>
-                                        Users
-                                    </p>
-                                </a>
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a class="nav-link @IsActive("/Inventory")" asp-page="/Inventory">
+                                            <i class="nav-icon fa-solid fa-circle"></i>
+                                            <p>Product List</p>
+                                        </a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link @IsActive("/Report")" asp-page="/Report">
+                                            <i class="nav-icon fa-solid fa-circle"></i>
+                                            <p>Sales</p>
+                                        </a>
+                                    </li>
+                                </ul>
                             </li>
                         }
+
+                        <!-- Settings -->
+                        @if (HasRole("Admin"))
+                        {
+                            <li class="nav-item">
+                                <a href="#" class="nav-link">
+                                    <i class="nav-icon fa-solid fa-gear"></i>
+                                    <p>
+                                        Settings
+                                        <i class="nav-arrow fa-solid fa-angle-right"></i>
+                                    </p>
+                                </a>
+
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a class="nav-link @IsActive("/Pin")" asp-page="/Pin">
+                                            <i class="nav-icon fa-solid fa-circle"></i>
+                                            <p>Users</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        }
+
                     </ul>
-                    <!--end::Sidebar Menu-->
                 </nav>
             </div>
             <!--end::Sidebar Wrapper-->
@@ -370,7 +415,8 @@
 
     <!-- #region Create QR code-->
     <script src="~/scripts/qrcode.min.js"></script>
-    <script src="https://unpkg.com/html5-qrcode"></script>
+    <script src="~/scripts/html5-qrcode.min.js"></script>
+  @*   <script src="https://unpkg.com/html5-qrcode"></script> *@
     <!-- #endregion -->
 
     <!-- #region Third Party Plugin JS-->

@@ -17,6 +17,7 @@ builder.Services.AddScoped<GetAllListRep>();
 builder.Services.AddScoped<GetInventoryRep>();
 builder.Services.AddScoped<GetReportRep>();
 builder.Services.AddScoped<PinCodeRep>();
+builder.Services.AddScoped<ReturnOrderRep>();
 
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddSession();

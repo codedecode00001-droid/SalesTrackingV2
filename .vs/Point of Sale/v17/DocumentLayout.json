@@ -1,177 +1,197 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\",
+  "WorkspaceRootPath": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\return.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\return.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.infrastructure\\repositories\\returnorderrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\returnorderrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\wwwroot\\scripts\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\wwwroot\\scripts\\returnprod.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\returnprod.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\wwwroot\\scripts\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.infrastructure\\repositories\\saveorderrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\return.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\return.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.infrastructure\\repositories\\saveorderrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\saveorderrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.core\\entities\\returnorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\entities\\returnorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.infrastructure\\repositories\\getreportrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\getreportrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\enterpin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\enterpin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.infrastructure\\repositories\\pincoderep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\pincoderep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\enterpin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\enterpin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\pin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\pin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\inventory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\inventory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\category.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\category.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\wwwroot\\scripts\\pin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\pin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.infrastructure\\dataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\dataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.core\\entities\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\entities\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\pin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\pin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\wwwroot\\scripts\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\wwwroot\\scripts\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.infrastructure\\repositories\\saveproductrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\saveproductrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\inventory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\inventory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\wwwroot\\scripts\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\wwwroot\\scripts\\inventory.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\inventory.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.infrastructure\\repositories\\pincoderep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\pincoderep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\pages\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\wwwroot\\scripts\\category.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\category.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\point of sale\\wwwroot\\scripts\\report.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\report.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.core\\model\\messageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\model\\messageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.core\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.infrastructure\\repositories\\getinventoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.infrastructure\\repositories\\getinventoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\getinventoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.core\\entities\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\wwwroot\\scripts\\report.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\report.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\enterpin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\enterpin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\wwwroot\\scripts\\category.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\category.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.core\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\report.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.infrastructure\\repositories\\getreportrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\getreportrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\enterpin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\enterpin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\pin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\pin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\inventory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\inventory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\category.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\category.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\wwwroot\\scripts\\pin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\pin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.infrastructure\\dataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\dataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.core\\entities\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\entities\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\pin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\pin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.infrastructure\\repositories\\saveproductrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\saveproductrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\inventory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\inventory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\wwwroot\\scripts\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|c:\\users\\wang\\desktop\\sales track v2\\point of sale\\wwwroot\\scripts\\inventory.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{07380C67-E2F6-4891-98D4-71F232A94887}|Point of Sale\\Point of Sale.csproj|solutionrelative:point of sale\\wwwroot\\scripts\\inventory.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.core\\model\\messageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\model\\messageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.core\\entities\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\entities\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.infrastructure\\repositories\\savecategoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.infrastructure\\repositories\\savecategoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\savecategoryrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.infrastructure\\repositories\\getalllistrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.infrastructure\\repositories\\getalllistrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5D76430-AA1A-4ECE-936C-28239D207D86}|pos.Infrastructure\\pos.Infrastructure.csproj|solutionrelative:pos.infrastructure\\repositories\\getalllistrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\inventory web\\point of sale\\pos.core\\entities\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|c:\\users\\wang\\desktop\\sales track v2\\pos.core\\entities\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{316CF76C-BD92-4EA4-97F3-7F11CA426AE5}|pos.Core\\pos.Core.csproj|solutionrelative:pos.core\\entities\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -182,15 +202,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 37,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "Pin.js",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Pin.js",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Pin.js",
               "RelativeDocumentMoniker": "Point of Sale\\wwwroot\\Scripts\\Pin.js",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Pin.js",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Pin.js",
               "RelativeToolTip": "Point of Sale\\wwwroot\\Scripts\\Pin.js",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwKoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -199,24 +219,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Logout.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Logout.cshtml.cs",
-              "RelativeDocumentMoniker": "Point of Sale\\Pages\\Logout.cshtml.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Logout.cshtml.cs",
-              "RelativeToolTip": "Point of Sale\\Pages\\Logout.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ReturnOrder.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\ReturnOrder.cs",
+              "RelativeDocumentMoniker": "pos.Core\\Entities\\ReturnOrder.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\ReturnOrder.cs",
+              "RelativeToolTip": "pos.Core\\Entities\\ReturnOrder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T11:52:23.104Z",
+              "WhenOpened": "2026-04-15T04:44:53.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
+              "Title": "ReturnOrderRep.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\ReturnOrderRep.cs",
+              "RelativeDocumentMoniker": "pos.Infrastructure\\Repositories\\ReturnOrderRep.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\ReturnOrderRep.cs",
+              "RelativeToolTip": "pos.Infrastructure\\Repositories\\ReturnOrderRep.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T04:41:46.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Return.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Return.cshtml.cs",
+              "RelativeDocumentMoniker": "Point of Sale\\Pages\\Return.cshtml.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Return.cshtml.cs",
+              "RelativeToolTip": "Point of Sale\\Pages\\Return.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T04:37:31.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReturnProd.js",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\ReturnProd.js",
+              "RelativeDocumentMoniker": "Point of Sale\\wwwroot\\Scripts\\ReturnProd.js",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\ReturnProd.js",
+              "RelativeToolTip": "Point of Sale\\wwwroot\\Scripts\\ReturnProd.js",
+              "ViewState": "AgIAALYAAAAAAAAAAAAQwO0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-15T02:14:33.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Return.cshtml",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Return.cshtml",
+              "RelativeDocumentMoniker": "Point of Sale\\Pages\\Return.cshtml",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Return.cshtml",
+              "RelativeToolTip": "Point of Sale\\Pages\\Return.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T07:39:35.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Point of Sale\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "Point of Sale\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:52:23.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Error.cshtml",
               "RelativeToolTip": "Point of Sale\\Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -224,11 +308,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "DataAccessHelper.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\DataAccessHelper.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\DataAccessHelper.cs",
               "RelativeDocumentMoniker": "pos.Infrastructure\\DataAccessHelper.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\DataAccessHelper.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\DataAccessHelper.cs",
               "RelativeToolTip": "pos.Infrastructure\\DataAccessHelper.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAQwFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,11 +320,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "Pin.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Pin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Pin.cshtml.cs",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Pin.cshtml.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Pin.cshtml.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Pin.cshtml.cs",
               "RelativeToolTip": "Point of Sale\\Pages\\Pin.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,11 +332,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "Pin.cshtml",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Pin.cshtml",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Pin.cshtml",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Pin.cshtml",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Pin.cshtml",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Pin.cshtml",
               "RelativeToolTip": "Point of Sale\\Pages\\Pin.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAE0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -260,23 +344,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Program.cs",
               "RelativeDocumentMoniker": "Point of Sale\\Program.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Program.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Program.cs",
               "RelativeToolTip": "Point of Sale\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T03:33:25.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "EnterPin.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\EnterPin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\EnterPin.cshtml.cs",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\EnterPin.cshtml.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\EnterPin.cshtml.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\EnterPin.cshtml.cs",
               "RelativeToolTip": "Point of Sale\\Pages\\EnterPin.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -284,36 +368,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "EnterPin.cshtml",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\EnterPin.cshtml",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\EnterPin.cshtml",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\EnterPin.cshtml",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\EnterPin.cshtml",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\EnterPin.cshtml",
               "RelativeToolTip": "Point of Sale\\Pages\\EnterPin.cshtml",
-              "ViewState": "AgIAALIAAAAAAAAAAAAUwNQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-06T17:19:31.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T17:19:31.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "PinCodeRep.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\PinCodeRep.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\PinCodeRep.cs",
               "RelativeDocumentMoniker": "pos.Infrastructure\\Repositories\\PinCodeRep.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\PinCodeRep.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\PinCodeRep.cs",
               "RelativeToolTip": "pos.Infrastructure\\Repositories\\PinCodeRep.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T09:02:51.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "Pin.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Pin.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Pin.cs",
               "RelativeDocumentMoniker": "pos.Core\\Entities\\Pin.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Pin.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Pin.cs",
               "RelativeToolTip": "pos.Core\\Entities\\Pin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -321,49 +404,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "GetReportRep.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\GetReportRep.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\GetReportRep.cs",
               "RelativeDocumentMoniker": "pos.Infrastructure\\Repositories\\GetReportRep.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\GetReportRep.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\GetReportRep.cs",
               "RelativeToolTip": "pos.Infrastructure\\Repositories\\GetReportRep.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAIAwwB8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T12:12:59.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T12:12:59.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "Report.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Report.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Report.cshtml.cs",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Report.cshtml.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Report.cshtml.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Report.cshtml.cs",
               "RelativeToolTip": "Point of Sale\\Pages\\Report.cshtml.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T12:12:38.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T12:12:38.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 17,
               "Title": "Report.js",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Report.js",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Report.js",
               "RelativeDocumentMoniker": "Point of Sale\\wwwroot\\Scripts\\Report.js",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Report.js",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Report.js",
               "RelativeToolTip": "Point of Sale\\wwwroot\\Scripts\\Report.js",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAqwHwAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-02-05T11:57:59.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 21,
               "Title": "Report.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Report.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Report.cs",
               "RelativeDocumentMoniker": "pos.Core\\Entities\\Report.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Report.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Report.cs",
               "RelativeToolTip": "pos.Core\\Entities\\Report.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAkwAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -371,35 +452,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 18,
               "Title": "Report.cshtml",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Report.cshtml",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Report.cshtml",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Report.cshtml",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Report.cshtml",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Report.cshtml",
               "RelativeToolTip": "Point of Sale\\Pages\\Report.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-03T10:21:08.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 16,
               "Title": "GetInventoryRep.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\GetInventoryRep.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\GetInventoryRep.cs",
               "RelativeDocumentMoniker": "pos.Infrastructure\\Repositories\\GetInventoryRep.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\GetInventoryRep.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\GetInventoryRep.cs",
               "RelativeToolTip": "pos.Infrastructure\\Repositories\\GetInventoryRep.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAD4v1QAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAawEEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-30T10:56:50.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "Inventory.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Inventory.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Inventory.cshtml.cs",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Inventory.cshtml.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Inventory.cshtml.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Inventory.cshtml.cs",
               "RelativeToolTip": "Point of Sale\\Pages\\Inventory.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -407,11 +488,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Inventory.cs",
               "RelativeDocumentMoniker": "pos.Core\\Entities\\Inventory.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Inventory.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Inventory.cs",
               "RelativeToolTip": "pos.Core\\Entities\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +500,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 40,
               "Title": "Inventory.js",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Inventory.js",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Inventory.js",
               "RelativeDocumentMoniker": "Point of Sale\\wwwroot\\Scripts\\Inventory.js",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Inventory.js",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Inventory.js",
               "RelativeToolTip": "Point of Sale\\wwwroot\\Scripts\\Inventory.js",
               "ViewState": "AgIAACUAAAAAAAAAAAAgwDoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -431,11 +512,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 37,
               "Title": "Inventory.cshtml",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Inventory.cshtml",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Inventory.cshtml",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Inventory.cshtml",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Inventory.cshtml",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Inventory.cshtml",
               "RelativeToolTip": "Point of Sale\\Pages\\Inventory.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -443,11 +524,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "Dashboard.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Dashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Dashboard.cshtml.cs",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Dashboard.cshtml.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Dashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Dashboard.cshtml.cs",
               "RelativeToolTip": "Point of Sale\\Pages\\Dashboard.cshtml.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -455,37 +536,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Orders.cshtml",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Orders.cshtml",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Orders.cshtml",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Orders.cshtml",
               "RelativeToolTip": "Point of Sale\\Pages\\Orders.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-23T07:14:47.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SaveOrderRep.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\SaveOrderRep.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\SaveOrderRep.cs",
               "RelativeDocumentMoniker": "pos.Infrastructure\\Repositories\\SaveOrderRep.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\SaveOrderRep.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\SaveOrderRep.cs",
               "RelativeToolTip": "pos.Infrastructure\\Repositories\\SaveOrderRep.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAswFYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAALsAAAAAAAAAAAAYwNcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T03:35:22.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 13,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "pos.Core\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Order.cs",
               "RelativeToolTip": "pos.Core\\Entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -493,75 +574,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Order.js",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Order.js",
-              "RelativeDocumentMoniker": "Point of Sale\\wwwroot\\Scripts\\Order.js",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Order.js",
-              "RelativeToolTip": "Point of Sale\\wwwroot\\Scripts\\Order.js",
-              "ViewState": "AgIAAAYBAAAAAAAAAAAIwCIBAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-23T07:34:58.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Orders.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Orders.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Orders.cshtml.cs",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Orders.cshtml.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Orders.cshtml.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Orders.cshtml.cs",
               "RelativeToolTip": "Point of Sale\\Pages\\Orders.cshtml.cs",
-              "ViewState": "AgIAALQAAAAAAAAAAAAQwF8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T03:37:08.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.js",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Order.js",
+              "RelativeDocumentMoniker": "Point of Sale\\wwwroot\\Scripts\\Order.js",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Order.js",
+              "RelativeToolTip": "Point of Sale\\wwwroot\\Scripts\\Order.js",
+              "ViewState": "AgIAAA4CAAAAAAAAAAAAAPcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-23T07:34:58.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Product.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Product.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Product.cshtml.cs",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Product.cshtml.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Product.cshtml.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Product.cshtml.cs",
               "RelativeToolTip": "Point of Sale\\Pages\\Product.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T06:38:34.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Product.cshtml",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Product.cshtml",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Product.cshtml",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Product.cshtml",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Product.cshtml",
               "RelativeToolTip": "Point of Sale\\Pages\\Product.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-16T05:32:57.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T05:32:57.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 10,
               "Title": "Product.js",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Product.js",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Product.js",
               "RelativeDocumentMoniker": "Point of Sale\\wwwroot\\Scripts\\Product.js",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Product.js",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Product.js",
               "RelativeToolTip": "Point of Sale\\wwwroot\\Scripts\\Product.js",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAgwGsAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwFIAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-12-16T06:15:17.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "SaveProductRep.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\SaveProductRep.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\SaveProductRep.cs",
               "RelativeDocumentMoniker": "pos.Infrastructure\\Repositories\\SaveProductRep.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\SaveProductRep.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\SaveProductRep.cs",
               "RelativeToolTip": "pos.Infrastructure\\Repositories\\SaveProductRep.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -569,24 +649,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Point of Sale\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAAAOIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAALABAAAAAAAAAAAAALwBAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-13T10:03:37.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "Dashboard.js",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Dashboard.js",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Dashboard.js",
               "RelativeDocumentMoniker": "Point of Sale\\wwwroot\\Scripts\\Dashboard.js",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Dashboard.js",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Dashboard.js",
               "RelativeToolTip": "Point of Sale\\wwwroot\\Scripts\\Dashboard.js",
               "ViewState": "AgIAAE0AAAAAAAAAAAAQwFoAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -594,11 +674,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Dashboard.cshtml",
               "RelativeToolTip": "Point of Sale\\Pages\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -606,11 +686,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 46,
               "Title": "GetAllListRep.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\GetAllListRep.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\GetAllListRep.cs",
               "RelativeDocumentMoniker": "pos.Infrastructure\\Repositories\\GetAllListRep.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\GetAllListRep.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\GetAllListRep.cs",
               "RelativeToolTip": "pos.Infrastructure\\Repositories\\GetAllListRep.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAswB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -618,11 +698,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 47,
               "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Dashboard.cs",
               "RelativeDocumentMoniker": "pos.Core\\Entities\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Dashboard.cs",
               "RelativeToolTip": "pos.Core\\Entities\\Dashboard.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -630,11 +710,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "pos.Core\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Product.cs",
               "RelativeToolTip": "pos.Core\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -642,24 +722,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 22,
               "Title": "Category.cshtml",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Category.cshtml",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Category.cshtml",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Category.cshtml",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Category.cshtml",
               "RelativeToolTip": "Point of Sale\\Pages\\Category.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-05T06:33:04.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T06:33:04.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "SaveCategoryRep.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\SaveCategoryRep.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\SaveCategoryRep.cs",
               "RelativeDocumentMoniker": "pos.Infrastructure\\Repositories\\SaveCategoryRep.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\Repositories\\SaveCategoryRep.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\Repositories\\SaveCategoryRep.cs",
               "RelativeToolTip": "pos.Infrastructure\\Repositories\\SaveCategoryRep.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -667,23 +746,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 20,
               "Title": "Category.js",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Category.js",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Category.js",
               "RelativeDocumentMoniker": "Point of Sale\\wwwroot\\Scripts\\Category.js",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\wwwroot\\Scripts\\Category.js",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\wwwroot\\Scripts\\Category.js",
               "RelativeToolTip": "Point of Sale\\wwwroot\\Scripts\\Category.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-12-12T05:14:31.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "Category.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Category.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Category.cshtml.cs",
               "RelativeDocumentMoniker": "Point of Sale\\Pages\\Category.cshtml.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\Point of Sale\\Pages\\Category.cshtml.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\Point of Sale\\Pages\\Category.cshtml.cs",
               "RelativeToolTip": "Point of Sale\\Pages\\Category.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -691,11 +770,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "pos.Core\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Entities\\Category.cs",
               "RelativeToolTip": "pos.Core\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -703,11 +782,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "MessageResult.cs",
-              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Model\\MessageResult.cs",
+              "DocumentMoniker": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Model\\MessageResult.cs",
               "RelativeDocumentMoniker": "pos.Core\\Model\\MessageResult.cs",
-              "ToolTip": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\Model\\MessageResult.cs",
+              "ToolTip": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\Model\\MessageResult.cs",
               "RelativeToolTip": "pos.Core\\Model\\MessageResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

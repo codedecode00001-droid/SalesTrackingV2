@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EQmyXQi3HGg=",
+  "dgSpecHash": "DBc/ectzk6U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\pos.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\pos.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WANG\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\WANG\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -155,9 +155,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'RavenDB.Database 3.5.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\pos.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\pos.Infrastructure.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\pos.Infrastructure.csproj",
+      "filePath": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\pos.Infrastructure.csproj",
       "libraryId": "RavenDB.Database",
       "targetGraphs": [
         "net8.0"
@@ -167,9 +167,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'RavenDB.Tests.Helpers 3.5.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\pos.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\pos.Infrastructure.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Infrastructure\\pos.Infrastructure.csproj",
+      "filePath": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Infrastructure\\pos.Infrastructure.csproj",
       "libraryId": "RavenDB.Tests.Helpers",
       "targetGraphs": [
         "net8.0"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\pos.Core.csproj": {}
+    "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\pos.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\pos.Core.csproj": {
+    "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\pos.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\pos.Core.csproj",
+        "projectUniqueName": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\pos.Core.csproj",
         "projectName": "pos.Core",
-        "projectPath": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\pos.Core.csproj",
+        "projectPath": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\pos.Core.csproj",
         "packagesPath": "C:\\Users\\WANG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WANG\\Desktop\\Inventory Web\\Point of Sale\\pos.Core\\obj\\",
+        "outputPath": "C:\\Users\\WANG\\Desktop\\Sales Track V2\\pos.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
